@@ -1,7 +1,8 @@
 #include<stdio.h>
 
 void function(){
-    printf("This is new function");
+    printf("This is new function\n");
+    printf("This code will show error\n",);
 }
 
 int main(){
